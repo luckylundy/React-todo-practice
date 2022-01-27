@@ -1,0 +1,19 @@
+.App {
+  margin: 30px;
+}
+
+.App input {
+  margin: 0 3px;
+}
+
+.App button {
+  margin: 0 3px;
+}
+
+.todo-list li {
+  margin: 10px 0;
+}
+
+.todo-list li button {
+  margin: 0 3px;
+}
